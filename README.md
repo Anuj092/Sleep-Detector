@@ -1,11 +1,5 @@
 # Sleep Detection
 
-<div align="center">
-  <a href="https://github.com/Anuj092/sleep-detector">
-    <img src="preview.jpg" alt="Logo" height="300" width="600">
-  </a>
-</div>
-
 ---
 
 ## Dataset
