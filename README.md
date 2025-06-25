@@ -1,4 +1,4 @@
-# Sleep Detection
+# Sleep Detector
 
 ---
 
@@ -29,13 +29,13 @@ The dataset used for this project can be found [here](https://drive.google.com/d
    ```bash
    pip install -r requirements.txt
    ```
-3. **Make sure the following files are in the same directory as `SleepDetection.py`:**
+3. **Make sure the following files are in the same directory as `SleepDetector.py`:**
    - `haarcascade_frontalface_default.xml`
    - `haarcascade_eye_tree_eyeglasses.xml`
    - `buzz.mp3`
-4. **Run the `SleepDetection.py` file:**
+4. **Run the `SleepDetector.py` file:**
    ```bash
-   python SleepDetection.py
+   python SleepDetector.py
    ```
 
 ---
