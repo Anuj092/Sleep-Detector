@@ -54,10 +54,3 @@ cd Sleep-Detector
 pip install -r requirements.txt
 python sleep_detector.py
 
-
----
-
-<div align="center">
-  <a href="#top">Back to top</a>
-</div>
-
